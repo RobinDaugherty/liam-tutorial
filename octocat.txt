@@ -1,4 +1,3 @@
-This is the story of 
-the thing called
-(and I have no idea why)
-Octocat.
+Replacing everything in this file.
+Because.
+I don't need a good reason.
