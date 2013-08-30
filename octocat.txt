@@ -1,4 +1,4 @@
 This is the story of 
 the thing called
-(and I have no idea why)
+(I have some idea why)
 Octocat.
